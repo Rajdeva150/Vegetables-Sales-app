@@ -112,4 +112,3 @@ Daily sales, stock, profit tracking solution
 
 ---
 
-*Built with ❤️ using Claude AI*
