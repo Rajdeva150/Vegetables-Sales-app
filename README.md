@@ -112,3 +112,14 @@ Daily sales, stock, profit tracking solution
 
 ---
 
+❤️ Support / Donate
+If this app helped you manage your vegetable business better, consider supporting its development 🙏
+
+UPI ID: rajdeva140@okhdfcbank
+
+Donate via UPI
+
+Scan the UPI ID above using any UPI app (GPay, PhonePe, Paytm) or tap the button on mobile.
+
+---
+
